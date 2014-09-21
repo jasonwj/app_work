@@ -3,11 +3,10 @@ package com.weather.ui;
 import android.os.Bundle;
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
-import android.app.Activity;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class Main extends Activity {
+public class Main extends BaseActivity {
 
 	
 
